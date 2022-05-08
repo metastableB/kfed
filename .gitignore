@@ -1,0 +1,6 @@
+data/
+.ipynb_checkpoints
+*.pyc
+*egg-info
+*.csv
+*.out
